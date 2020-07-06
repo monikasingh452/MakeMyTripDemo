@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Demo_TestClass"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.967">
+  <properties />
+  
+  
+            <testcase name="enterUNTest" time="4.967" classname="demo_MS_UI_testCases.LoginPageTest" />
+      
+</testsuite>

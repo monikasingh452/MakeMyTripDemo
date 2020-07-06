@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="98926" started-at="2020-07-06T11:28:27Z" finished-at="2020-07-06T11:30:06Z">
+    <groups>
+    </groups>
+    <test name="Demo_TestClass" duration-ms="98926" started-at="2020-07-06T11:28:27Z" finished-at="2020-07-06T11:30:06Z">
+      <class name="demo_MS_UI_testCases.MMT_BeginPageTest">
+        <test-method status="PASS" signature="configLoad()[pri:0, instance:demo_MS_UI_testCases.MMT_BeginPageTest@4d1c00d0]" name="configLoad" is-config="true" duration-ms="341" started-at="2020-07-06T16:58:27Z" finished-at="2020-07-06T16:58:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configLoad -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:demo_MS_UI_testCases.MMT_BeginPageTest@4d1c00d0]" name="setup" is-config="true" duration-ms="58416" started-at="2020-07-06T16:58:27Z" finished-at="2020-07-06T16:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="openMMTTest()[pri:1, instance:demo_MS_UI_testCases.MMT_BeginPageTest@4d1c00d0]" name="openMMTTest" duration-ms="4001" started-at="2020-07-06T16:59:26Z" finished-at="2020-07-06T16:59:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openMMTTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:demo_MS_UI_testCases.MMT_BeginPageTest@4d1c00d0]" name="tearDown" is-config="true" duration-ms="730" started-at="2020-07-06T16:59:32Z" finished-at="2020-07-06T16:59:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:demo_MS_UI_testCases.MMT_BeginPageTest@4d1c00d0]" name="setup" is-config="true" duration-ms="19248" started-at="2020-07-06T16:59:33Z" finished-at="2020-07-06T16:59:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickLoginSingUPBtnTest()[pri:2, instance:demo_MS_UI_testCases.MMT_BeginPageTest@4d1c00d0]" name="clickLoginSingUPBtnTest" duration-ms="1448" started-at="2020-07-06T16:59:52Z" finished-at="2020-07-06T16:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginSingUPBtnTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:demo_MS_UI_testCases.MMT_BeginPageTest@4d1c00d0]" name="tearDown" is-config="true" duration-ms="289" started-at="2020-07-06T16:59:54Z" finished-at="2020-07-06T16:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demo_MS_UI_testCases.MMT_BeginPageTest -->
+      <class name="demo_MS_UI_testCases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:demo_MS_UI_testCases.LoginPageTest@4b2bac3f]" name="setup" is-config="true" duration-ms="7217" started-at="2020-07-06T16:59:54Z" finished-at="2020-07-06T17:00:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="enterUNTest()[pri:1, instance:demo_MS_UI_testCases.LoginPageTest@4b2bac3f]" name="enterUNTest" duration-ms="4967" started-at="2020-07-06T17:00:01Z" finished-at="2020-07-06T17:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUNTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:demo_MS_UI_testCases.LoginPageTest@4b2bac3f]" name="tearDown" is-config="true" duration-ms="130" started-at="2020-07-06T17:00:06Z" finished-at="2020-07-06T17:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demo_MS_UI_testCases.LoginPageTest -->
+    </test> <!-- Demo_TestClass -->
+  </suite> <!-- Suite -->
+</testng-results>

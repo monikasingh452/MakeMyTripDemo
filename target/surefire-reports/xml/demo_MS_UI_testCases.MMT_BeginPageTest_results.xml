@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Demo_TestClass"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.449">
+  <properties />
+  
+  
+            <testcase name="clickLoginSingUPBtnTest" time="1.448" classname="demo_MS_UI_testCases.MMT_BeginPageTest" />
+                <testcase name="openMMTTest" time="4.001" classname="demo_MS_UI_testCases.MMT_BeginPageTest" />
+      
+</testsuite>
